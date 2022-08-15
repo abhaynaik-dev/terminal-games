@@ -15,11 +15,13 @@ But how? [Bayes' theorem][0] can answer this question
 
 ![Monty Hall Problem](screenshots/monty_hall_problem.png "Monty Hall Problem") 
 
-## installation
+## Installation
 
 * For Monty Hall Simulator
 	* Install matpplotlib `pip install matplotlib`. Install GUI backend `sudo apt-get install python3-tk`
 	* Run monty hall script `python monty_hall_simulation.py`
+* For Monty Hall Terminal Game
+	* Run monty hall script `python monty_hall_game.py` and enjoy the game
 
 Modules Used
 --------------
